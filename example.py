@@ -1,3 +1,4 @@
+# 간단한 파이선 예제
 name='python'
 numbers =[1,2,3,4,5]
 def square(x):
